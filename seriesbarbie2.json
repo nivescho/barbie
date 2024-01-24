@@ -1,0 +1,61 @@
+export default {
+    "studio": "DIC Entertinment Productions",
+    "films": 
+}  
+        "id"; "SERIE 1",
+        "title"; "Barbie:Life in the Dreamhouse";
+        "description"; "La serie se centra en la vida de la famosa muñeca Barbie, sus hermanas, sus amigos y su novio Ken",
+        "Company"; "Arc Productions"
+        "producer"; "Mattel Playground Productions"
+        "poster";
+         "season"; 8,
+         "chapters"; 75,
+
+        "release_date"; "2012",
+        "people";
+          {
+            "id";"personaje 1",
+            "name"; "Barbie",
+            "img"; " ",
+            "gender"; "fem",
+            "age"; "?",
+            "eye_color"; "blue",
+            "hair_color"; "blond",
+            "specie"; "Human",
+          }
+
+        {
+            "id";"personaje 2",
+            "name"; "ken",
+            "img"; " ",
+            "gender"; "Male",
+            "age"; "?",
+            "eye_color"; "blue",
+            "hair_color"; "blond",
+            "specie"; "Human",
+
+        }      
+
+        {
+            "id";"personaje 3",
+            "name"; "Raquelle",
+            "img"; " ",
+            "gender"; "fem",
+            "age"; "?",
+            "eye_color"; "black",
+            "hair_color"; "black",
+            "specie"; "Human",
+
+        }      
+
+        {
+            "id";"personaje 4",
+            "name"; "Skipper",
+            "img"; " ",
+            "gender"; "Male",
+            "age"; "?",
+            "eye_color"; "blue",
+            "hair_color"; "blond",
+            "specie"; "Human",
+
+        }      
